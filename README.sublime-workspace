@@ -1,0 +1,724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"col",
+				"column-gap\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"backgrou",
+				"background-position\tproperty"
+			],
+			[
+				"space",
+				"space-around\tjustify-content"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"la",
+				"languages"
+			],
+			[
+				"b64",
+				"b64test"
+			],
+			[
+				"stu",
+				"statuses"
+			],
+			[
+				"data",
+				"Data"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"adminu",
+				"adminuser"
+			],
+			[
+				"handle",
+				"handleNoAdmin"
+			],
+			[
+				"is",
+				"isAdmin"
+			],
+			[
+				"fnu",
+				"function"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"min",
+				"minWidth"
+			],
+			[
+				"my",
+				"myAccount"
+			],
+			[
+				"user",
+				"usersData"
+			],
+			[
+				"justi",
+				"justify-content-between"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"fals",
+				"falsePassword"
+			],
+			[
+				"new",
+				"newPassword"
+			],
+			[
+				"current",
+				"currentPassword"
+			],
+			[
+				"p",
+				"p-2"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"admin",
+				"AdminUser"
+			],
+			[
+				"found",
+				"found"
+			],
+			[
+				"Ge",
+				"GetKey"
+			],
+			[
+				"S",
+				"SpriteRenderer"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"usrnam",
+				"usernames"
+			],
+			[
+				"admi",
+				"AdminUser"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"tranfro",
+				"transform\tproperty"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"texte",
+				"textareaP"
+			],
+			[
+				"textarea",
+				"textareaTitle"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fn",
+				"font\tproperty"
+			],
+			[
+				"shadow",
+				"box-shadow\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"va",
+				"variable"
+			],
+			[
+				"mysql",
+				"mysqli"
+			],
+			[
+				"DB_",
+				"DB_PASSWORD"
+			],
+			[
+				"b",
+				"batterie"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"margn",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"pdf",
+				"pdf2"
+			],
+			[
+				"st",
+				"statuses"
+			],
+			[
+				"time",
+				"timeout\tsetTimeout function"
+			],
+			[
+				"backgo",
+				"background-color\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"spae",
+				"space-between\tjustify-content"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"spac",
+				"space-around\tjustify-content"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"m",
+				"min-width\tproperty"
+			],
+			[
+				"old",
+				"oldButton"
+			],
+			[
+				"Old",
+				"oldButton"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"FLEX",
+				"flex-basis\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"border-bott",
+				"border-bottom\tproperty"
+			],
+			[
+				"PADDING",
+				"padding\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"transl",
+				"translateX()\ttransform"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"border-right",
+				"border-right-style\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"grid",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"image",
+				"image1"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"BACK",
+				"background-color\tproperty"
+			],
+			[
+				"grid-templ",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"TEXT-a",
+				"text-align\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vincent.briat/AndroidStudioProjects/mastermindacademy/android/key.properties",
+		"/Users/vincent.briat/Downloads/app/android/key.properties",
+		"/Users/vincent.briat/Downloads/academyapp-master-prod 2/android/gradle.properties",
+		"/Users/vincent.briat/Downloads/S1053811914009380.bib",
+		"/Users/vincent.briat/Downloads/academyapp-master-prod 2/android/local.properties",
+		"/Users/vincent.briat/Downloads/app/ios/Runner/Info.plist",
+		"/Users/vincent.briat/Downloads/codecanyon-LR5fAHAR-academy-lms-mobile-app-flutter-ios-android/Academy Flutter Mobile App/academyapp-master/lib/constants.dart",
+		"/Users/vincent.briat/Documents/programmation/Apps/FlutterProjects/app/pubspec.yaml",
+		"/Users/vincent.briat/Downloads/app/lib/intro_screen.dart",
+		"/Users/vincent.briat/Downloads/app/pubspec.yaml",
+		"/Users/vincent.briat/Downloads/app/ios/Runner/GoogleService-Info.plist",
+		"/Users/vincent.briat/Downloads/codecanyon-LR5fAHAR-academy-lms-mobile-app-flutter-ios-android/Academy Flutter Mobile App/academyapp-master/ios/Runner/Info.plist",
+		"/Users/vincent.briat/Downloads/codecanyon-LR5fAHAR-academy-lms-mobile-app-flutter-ios-android/Academy Flutter Mobile App/Academy-Flutter-App.zip",
+		"/Users/vincent.briat/Downloads/app/android/app/src/main/AndroidManifest.xml",
+		"/Users/vincent.briat/Documents/programmation/html_test/ToDoList/todoapp.js",
+		"/Users/vincent.briat/Documents/programmation/html_test/ToDoList/todoapp.html",
+		"/Users/vincent.briat/Unity/New Unity Project (1)/Assets/WallMouvement.cs",
+		"/Users/vincent.briat/Unity/New Unity Project (1)/Assets/Bounciness.cs",
+		"/Users/vincent.briat/Unity/New Unity Project (1)/Assets/BatMouvement.cs",
+		"/Users/vincent.briat/Documents/programmation/html_test/fanfare/HomeImage.jpg",
+		"/Users/vincent.briat/Documents/programmation/node/bot.js",
+		"/Users/vincent.briat/Documents/programmation/html_test/fanfare/logoFanfarePoulpe.png",
+		"/Users/vincent.briat/Documents/programmation/html_test/Simply Stream/simplyStream.html",
+		"/Users/vincent.briat/Desktop/554404F31B4FEE886EF3E6C3DFA0B470CEB1B4D7441B4134F7pimgpsh_fullsize_distr.jpg",
+		"/Users/vincent.briat/Documents/programmation/node/news.js",
+		"/Users/vincent.briat/Documents/programmation/node/download.html",
+		"/Users/vincent.briat/Documents/programmation/Travail/The Valley Restaurant/css/style.280218.css",
+		"/Users/vincent.briat/Documents/programmation/Travail/The Valley Restaurant/valleyjunction.php",
+		"/Users/vincent.briat/Documents/programmation/Travail/The Valley Restaurant/js/script.min.js",
+		"/Users/vincent.briat/Documents/Extensions_chrome/adblock_plus_3.7_0/polyfill.js",
+		"/Users/vincent.briat/anaconda3/lib/python3.7/site-packages/pexpect/bashrc.sh",
+		"/Users/vincent.briat/anaconda3/bin/python3.7",
+		"/Users/vincent.briat/Documents/Processing/android/sdk/tools/bin/sdkmanager",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/AdminUser/Home.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/sqlInjection/sqlInjection.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/sqlInjection/sqlInjection.js",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/DVWA-master/config/config.inc.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/AdminUser/LogIn.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/AdminUser/AdminUser.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/AdminUser/AdminUser.css",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/AdminUser/AdminUser.js",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/AdminUser/myAccount.php",
+		"/Users/vincent.briat/anaconda3/pkgs/anaconda-navigator-1.9.6-py37_0/info/recipe/osx-post.sh",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/pdfhandler/pdfhandler.php",
+		"/Users/vincent.briat/Unity/New Unity Project/Assets/PlayerController.cs",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/todoapp/todoapp.php",
+		"/Users/vincent.briat/Library/Application Support/minecraft/saves/RLCraft/playerdata/87259c75-e154-45c1-b4bb-eff4725bfe3c.dat",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/todoapp/todoapp.css",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/firstform/confirm.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/todoapp/todoapp.js",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/firstform/process.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/firstform/firstform.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/index.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/process.php",
+		"/Users/vincent.briat/.bitnami/stackman/machines/xampp/volumes/root/htdocs/confirm.php",
+		"/Users/vincent.briat/Documents/programmation/html_test/Lovetadka/style.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/Lovetadka/lovetadka.html",
+		"/Users/vincent.briat/Documents/Northumbria/Year 1/WebTechnologies/Assignment.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/Contact-us/contactUs.php",
+		"/Users/vincent.briat/Documents/programmation/html_test/Contact-us/contactUs.html",
+		"/Users/vincent.briat/Documents/Northumbria/Year 1/WebTechnologies/script.js",
+		"/Users/vincent.briat/Documents/Northumbria/Year 1/WebTechnologies/index.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/TicTacToe/TicTacToe.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/TicTacToe/TicTacToe.js",
+		"/Users/vincent.briat/Documents/programmation/html_test/TicTacToe/TicTacToe.html",
+		"/Users/vincent.briat/Documents/Northumbria/Year 1/WebTechnologies/Assignment.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/nav bar html/NavBarHtml.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/nav bar html/NavBarHtml.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/Pound Euro API/PoundEuroAPI.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/Pound Euro API/PoundEuroAPI.js",
+		"/Users/vincent.briat/Documents/programmation/html_test/Pound Euro API/PoundEuroAPI.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/Pound Euro API",
+		"/Users/vincent.briat/Documents/programmation/html_test/Tooth Gem/ToothGem.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/Tooth Gem/ToothGem.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/Simply Stream/simplyStream.css",
+		"/Users/vincent.briat/IdeaProjects/untitled/src/App.js",
+		"/Users/vincent.briat/Desktop/Beltrame.jpg",
+		"/Users/vincent.briat/Desktop/empireInk.html",
+		"/Users/vincent.briat/Downloads/stockmarketlab.com-20191130T103234.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/square/square.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/square/square.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/Simply Work/simplyWork.html",
+		"/Users/vincent.briat/IdeaProjects/project3/src/App.js",
+		"/Users/vincent.briat/Documents/programmation/html_test/week8/theBand.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/week8/theBand.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/iframeTest/simplyStream.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/Simply Work/simplyWork.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/iframeTest/iframeTest.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/iframeTest/iframeTest.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/week6/gridDemo.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/week6/gridDemo.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/test.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/test.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/week4/floatAndFlex.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/week7/Flex.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/week7/Flex.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/week4/floatDemo.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/northumbria police/NorthumbriaPolice.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/northumbria police/PoliceOriginal.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/northumbria police/NorthumbriaPolice.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/week7/week7layout.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/week7/week7layout.html",
+		"/Users/vincent.briat/Documents/programmation/html_test/calculator/calculator.css",
+		"/Users/vincent.briat/Documents/programmation/html_test/calculator/calculator.js",
+		"/Users/vincent.briat/Documents/programmation/html_test/calculator/calculator.html",
+		"/Users/vincent.briat/IdeaProjects/project1/src/index.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
