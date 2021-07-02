@@ -7,14 +7,6 @@
 ReadTheDocs Test
 """"""""""""""""
 
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-Exposition of what I recently learned about ReadTheDocs and Sphinx.
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-
-Welcome to ReadTheDocs Test's documentation!
-============================================
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
