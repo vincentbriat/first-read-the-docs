@@ -3,6 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+"""""""""""
+ReadTheDocs Test
+"""""""""""
+
+''''''''''
+Exposition of what I recently learned about ReadTheDocs and Sphinx.
+''''''''''
+
+
 Welcome to ReadTheDocs Test's documentation!
 ============================================
 
@@ -10,6 +19,7 @@ Welcome to ReadTheDocs Test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   pages/about_me.rst
 
 
 Indices and tables
